@@ -1,0 +1,21 @@
+#Knowledge
+
+##English
+
+What to do when something goes wrong?
+
+- Login into the customer panel on https://support.euserv.com
+- Click on vserver tab
+- Select your vps contract
+- Click on Rescue System
+- Click on Activate
+- Wait until you receive email that rescue is ready
+- Go to your server via ssh
+- Got to path
+/mnt/customer
+- Here are your normal os, now you can restore your config backup
+- Disable the rescue system on the same way 
+
+##Deutsch
+
+Was tun wenn etwas schief läuft?
